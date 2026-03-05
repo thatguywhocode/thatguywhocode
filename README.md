@@ -37,15 +37,6 @@ Blockchain-based voting platform built using Solidity and React.
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatguywhocode&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatguywhocode&layout=compact&theme=dark&hide_border=true)
-
-## 🏆 GitHub Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=thatguywhocode&theme=darkhub&no-frame=true&margin-w=10)
 
 ---
 
